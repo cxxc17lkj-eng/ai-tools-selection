@@ -13,7 +13,7 @@
 | 其他 AI 工具 | Grok、Perplexity | 当前可选商品与规格 |
 | 图像与视频工具 | Seedance、Runway、Kling | 具体商品包含的使用内容 |
 
-**[购买入口直达 → 查看全部商品与当前价格](https://wzyp.cn/shop/xiaoen666817)**
+**[购买入口直达 → 查看全部商品与当前价格](https://wzyp.cn/shop/GGbondai)**
 
 进入后按产品名称查找，再查看商品详情。具体可售规格和库存以购买页面为准。
 
@@ -33,7 +33,7 @@
 
 还没确定规格，可以直接问：“我想用【工具】，已有／没有账号，准备使用【时长】，当前有哪些适合的商品？”
 
-[查看当前可选商品 →](https://wzyp.cn/shop/xiaoen666817)
+[查看当前可选商品 →](https://wzyp.cn/shop/GGbondai)
 
 <details>
 <summary>选购咨询与售后联系（展开）</summary>
