@@ -35,17 +35,35 @@
 
 [查看当前可选商品 →](https://wzyp.cn/shop/GGbondai)
 
-<details>
+<!-- restored-topics:start -->
+## 专题与实用指南
+
+- [GPT / ChatGPT 订阅与账号](./gpt-plus.md)
+- [GPT Plus代充与 GPT Pro 5x代充](./gpt-plus-pro-5x-recharge.md)
+- [GPT Plus、Pro 5x / 10x / 25x 商品指南](./gpt-plus-pro-daichong.md)
+- [AI 编程：Cursor、Kiro 与 Codex](./ai-development.md)
+- [Codex Team / K12 / Free 标签说明](./codex-team-k12-free.md)
+- [AI 绘图与视频：Seedance、Runway、Kling](./ai-creation.md)
+- [AI 工具选购速览](./telegram-promo.md)
+- [Plus / Pro 商品怎么比较](./GPT_PLUS_PRO_COMPARISON.md)
+- [没有合适支付方式时的核对项](./GPT_PLUS_NO_CARD.md)
+- [代充安全与验收清单](./CHATGPT_PLUS_SAFETY.md)
+- [付款与订单异常排查](./CHATGPT_PAYMENT_ORDER_TROUBLESHOOTING.md)
+
+[打开网页版导航](https://cxxc17lkj-eng.github.io/ai-tools-selection/)
+<!-- restored-topics:end -->
+
+<details id="contact">
 <summary>选购咨询与售后联系（展开）</summary>
 
 可在购买页面点击「联系TA」，或通过 QQ 交流群咨询。群号：**1104198281**。
 
 <p><a href="./qq-group-1104198281.png"><img src="./qq-group-1104198281.png" alt="QQ 交流群二维码" width="180" height="180"></a></p>
 
-手机可点击原图后保存，在 QQ 中识别。咨询时说明产品、代充或成品号、使用时长即可；账号与订单资料请通过私下售后渠道沟通。
+手机可点击原图后保存，在 QQ 中识别。咨询时说明产品、交付方式和使用时长；账号与订单信息请通过私下售后渠道沟通。
 
 </details>
 
----
-本页由购买入口的服务提供方维护，非相关产品官方页面。目录核对于 2026-10-26；价格、库存、交付与售后以所选商品详情及订单确认内容为准。
 
+---
+本页由购买入口的服务提供方维护，非相关产品官方页面。更新于 2026-10-30；价格、库存、交付与售后以所选商品详情及订单确认内容为准。
